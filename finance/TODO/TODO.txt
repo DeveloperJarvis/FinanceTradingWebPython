@@ -1,0 +1,35 @@
+TODO
+
+    read distribution code
+    register
+    quote
+    buy
+    index
+    sell
+    history
+    final additional feature -
+
+
+Application.py
+    lots of imports
+    ensures responses aren't cached
+    configures Flask and Flask session
+    configures
+
+
+https://cs50.harvard.edu/x/2020/tracks/web/finance/
+
+export API_KEY=pk_9dc299d676b2437bb5d93408f6968c86
+API_KEY = pk_9dc299d676b2437bb5d93408f6968c86
+
+https://docs.cs50.net/2018/x/psets/7/finance/finance.html
+
+https://finance.cs50.net/register
+test
+12345
+
+
+https://cloud-sse.iexapis.com/stable/stock/nflx/quote?token=API_KEY
+https://cloud-sse.iexapis.com/stable/stock/nflx/quote?token=pk_9dc299d676b2437bb5d93408f6968c86
+
+API key: INSTJYSCWUSWIAO8
