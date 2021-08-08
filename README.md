@@ -9,3 +9,10 @@ among
 -average
 -advance
 -expert
+
+Languages Used:
+Python
+HTNL
+CSS
+Javascript
+Jinja - Templating engine
